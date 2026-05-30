@@ -5,6 +5,7 @@ body {
 
 .mainframe {
     margin-left: 400px;
+    color: rgb(196, 84, 84);
 }
 
 a {
@@ -19,4 +20,10 @@ a {
     color: brown;
     border-radius: 10px;
     border: 2px solid rgb(226, 105, 105);
+}
+
+img {
+    width: 400px;
+    margin-left: 48px;
+    border-radius: 8px;
 }
