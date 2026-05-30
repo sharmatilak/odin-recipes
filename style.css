@@ -1,0 +1,22 @@
+body {
+    font-family: Arial, Helvetica, sans-serif;
+    font-weight: bold;
+}
+
+.mainframe {
+    margin-left: 400px;
+}
+
+a {
+    color: rgb(196, 84, 84);
+    text-decoration: none;
+}
+
+.frame {
+    background-color: rgb(78, 248, 248);
+    width: 500px;
+    padding: 10px;
+    color: brown;
+    border-radius: 10px;
+    border: 2px solid rgb(226, 105, 105);
+}
