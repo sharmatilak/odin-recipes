@@ -1,12 +1,18 @@
 body {
-    font-family: Arial, Helvetica, sans-serif;
+    font-family: Helvetica, sans-serif;
     font-weight: bold;
     background-color: rgb(183, 241, 241);
 }
 
+h1 {
+    font-size: 100px;
+}
+
 .mainframe {
-    margin-left: 400px;
     color: rgb(196, 84, 84);
+    display: flex;
+    flex-direction: column;
+    align-items: center;
 }
 
 a {
